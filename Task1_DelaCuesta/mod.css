@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+body{
+    background-color: hwb(0 41% 59%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+
+}
+.imahe{
+ margin: 30px auto;
+ width: 70%;
+
+}
+img{
+  width: 50%; 
+  float: right;
+  border: 3px solid #ffff;
+  border-radius: 10px;
+  margin-right: 250px;
+
+}
+.kite{
+    color: #ffff;
+    word-spacing: 10px;
+    margin-top: 260px;
+}
+.kite h2{
+    font-size: 42px;
+}
+.kite p{
+    font-size: 16px;
+}
